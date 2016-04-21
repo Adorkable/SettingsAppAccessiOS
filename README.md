@@ -67,9 +67,11 @@ One can also use the `rawValue` of the enum directly, manually create an `NSURL`
 
 Contributing
 ---
-If you have additional _iOS Settings App_ paths please feel free to create an issue or a pull request and they will get added to the library!
+If you have additional _iOS Settings App_ **paths** please feel free to create an issue or a pull request and they will get added to the library!
 
 If you have any ideas, suggestions or bugs to report please [create an issue](https://github.com/Adorkable/SettingsAppAccessiOS/issues/new) labeled *feature* or *bug* (check to see if the issue exists first please!) or create a pull request! 
+
+PS: If you think you have a better name than **SettingsAppAccess** please create an issue, _SettingsAppAccess_ is a mouthful...of bleh!
 
 Thanks
 ---
