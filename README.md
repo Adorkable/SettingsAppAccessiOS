@@ -71,6 +71,8 @@ If you have additional _iOS Settings App_ paths please feel free to create an is
 
 If you have any ideas, suggestions or bugs to report please [create an issue](https://github.com/Adorkable/SettingsAppAccessiOS/issues/new) labeled *feature* or *bug* (check to see if the issue exists first please!) or create a pull request! 
 
+PS: If you think you have a better name than **SettingsAppAccess** please create an issue, _SettingsAppAccess_ is a mouthful...of bleh!
+
 Thanks
 ---
 This library was inspired by [this post](https://gist.github.com/phynet/471089a51b8f940f0fb4) by Sofia Swidarowicz ([http://phyline.com](http://phyline.com)) and based on her original list and all its contributers!
