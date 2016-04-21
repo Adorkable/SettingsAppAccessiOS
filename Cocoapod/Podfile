@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'SettingsAppAccessCocoapodExample' do
+    pod 'SettingsAppAccess', :path => '../'
+end

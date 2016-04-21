@@ -1,0 +1,14 @@
+PODS:
+  - SettingsAppAccess (1.0.0)
+
+DEPENDENCIES:
+  - SettingsAppAccess (from `../`)
+
+EXTERNAL SOURCES:
+  SettingsAppAccess:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SettingsAppAccess: 728cd1041af81254a1451846fd42081861484e72
+
+COCOAPODS: 0.39.0
