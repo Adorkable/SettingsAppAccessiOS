@@ -71,6 +71,10 @@ If you have additional _iOS Settings App_ **paths** please feel free to create a
 
 If you have any ideas, suggestions or bugs to report please [create an issue](https://github.com/Adorkable/SettingsAppAccessiOS/issues/new) labeled *feature* or *bug* (check to see if the issue exists first please!) or create a pull request! 
 
+#### Translation
+The human readable names list is localized, anyone who would like to translate the list into a language they know should create a pull request! Many thanks!
+
+#### Library Name
 PS: If you think you have a better name than **SettingsAppAccess** please create an issue, _SettingsAppAccess_ is a mouthful...of bleh!
 
 Thanks
