@@ -5,7 +5,7 @@ SettingsAppAccess
 
 Installation
 ---
-**SettingsAppAccess** is available through **[cocoapods](http://cocoapods.org)**, to install simple add the following line to your `PodFile`:
+**SettingsAppAccess** is available through **[CocoaPods](http://cocoapods.org)**, to install simple add the following line to your `PodFile`:
 
 ``` ruby
   pod "SettingsAppAccess"
