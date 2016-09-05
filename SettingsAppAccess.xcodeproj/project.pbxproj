@@ -26,6 +26,7 @@
 		3C93AD391CC8740700FE6260 /* SettingsAppAccess.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 3C93AD351CC8740700FE6260 /* SettingsAppAccess.podspec */; };
 		5AFC3CB11D7D63FE008282B8 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5AFC3CAF1D7D63FE008282B8 /* Localizable.strings */; };
 		5AFC3CB51D7D6411008282B8 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5AFC3CB31D7D6411008282B8 /* Localizable.strings */; };
+		5AFC3CBD1D7D74E1008282B8 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5AFC3CBB1D7D74E1008282B8 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +87,9 @@
 		5AFC3CAD1D7D6336008282B8 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 		5AFC3CB01D7D63FE008282B8 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = Localizable.strings; sourceTree = "<group>"; };
 		5AFC3CB41D7D6411008282B8 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = Localizable.strings; sourceTree = "<group>"; };
+		5AFC3CB81D7D74B8008282B8 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		5AFC3CB91D7D74B8008282B8 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		5AFC3CBC1D7D74E1008282B8 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +149,7 @@
 				3C4E07131CC82E3800FDC312 /* Info.plist */,
 				3C93AD301CC86DE500FE6260 /* SettingsAppAccess.swift */,
 				3C4E071B1CC82ECD00FDC312 /* UIApplication+SettingsAppAccess.swift */,
+				5AFC3CBA1D7D74E1008282B8 /* ja.lproj */,
 				5AFC3CB21D7D6411008282B8 /* zh-Hant.lproj */,
 				5AFC3CAE1D7D63FE008282B8 /* zh-Hans.lproj */,
 				3C93AD2C1CC8662900FE6260 /* Base.lproj */,
@@ -204,6 +209,14 @@
 				5AFC3CB31D7D6411008282B8 /* Localizable.strings */,
 			);
 			path = "zh-Hant.lproj";
+			sourceTree = "<group>";
+		};
+		5AFC3CBA1D7D74E1008282B8 /* ja.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				5AFC3CBB1D7D74E1008282B8 /* Localizable.strings */,
+			);
+			path = ja.lproj;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -306,6 +319,7 @@
 				Base,
 				"zh-Hans",
 				"zh-Hant",
+				ja,
 			);
 			mainGroup = 3C4E07041CC82E3800FDC312;
 			productRefGroup = 3C4E070F1CC82E3800FDC312 /* Products */;
@@ -324,6 +338,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5AFC3CBD1D7D74E1008282B8 /* Localizable.strings in Resources */,
 				3C5396221CC85520004F4C79 /* Localizable.strings in Resources */,
 				5AFC3CB51D7D6411008282B8 /* Localizable.strings in Resources */,
 				5AFC3CB11D7D63FE008282B8 /* Localizable.strings in Resources */,
@@ -403,6 +418,7 @@
 				3C4E07281CC8376400FDC312 /* Base */,
 				5AFC3CAA1D7D5EA5008282B8 /* zh-Hans */,
 				5AFC3CAC1D7D6336008282B8 /* zh-Hant */,
+				5AFC3CB81D7D74B8008282B8 /* ja */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -413,6 +429,7 @@
 				3C4E072D1CC8376400FDC312 /* Base */,
 				5AFC3CAB1D7D5EA5008282B8 /* zh-Hans */,
 				5AFC3CAD1D7D6336008282B8 /* zh-Hant */,
+				5AFC3CB91D7D74B8008282B8 /* ja */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -437,6 +454,14 @@
 			isa = PBXVariantGroup;
 			children = (
 				5AFC3CB41D7D6411008282B8 /* zh-Hant */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		5AFC3CBB1D7D74E1008282B8 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5AFC3CBC1D7D74E1008282B8 /* ja */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

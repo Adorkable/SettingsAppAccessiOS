@@ -1,0 +1,98 @@
+/* No comment provided by engineer. */
+"About menu title" = "情報";
+
+/* No comment provided by engineer. */
+"Accessibility menu title" = "アクセシビリティ";
+
+/* No comment provided by engineer. */
+"Auto-Lock menu title" = "自動ロック";
+
+/* No comment provided by engineer. */
+"Bluetooth menu title" = "Bluetooth";
+
+/* No comment provided by engineer. */
+"Configuration Profiles menu title" = "Configuration Profiles";
+
+/* No comment provided by engineer. */
+"Date & Time menu title" = "日付と時刻";
+
+/* No comment provided by engineer. */
+"FaceTime menu title" = "FaceTime";
+
+/* No comment provided by engineer. */
+"General menu title" = "一般";
+
+/* No comment provided by engineer. */
+"iCloud menu title" = "iCloud";
+
+/* No comment provided by engineer. */
+"iCloud Storage menu title" = "iCloud 容量";
+
+/* No comment provided by engineer. */
+"iTunes & App Stores menu title" = "iTunes & App Stores";
+
+/* Keyboards list within Keyboards menu */
+"Keyboards -> Keyboards menu title" = "キーボード -> キーボード";
+
+/* Keyboards settings menu */
+"Keyboards menu title" = "キーボード";
+
+/* No comment provided by engineer. */
+"Language & Region menu title" = "言语と地域";
+
+/* No comment provided by engineer. */
+"Location Services menu title" = "位置情報サービス";
+
+/* No comment provided by engineer. */
+"Mail, Contacts, Calendars menu title" = "メール/連絡先/カレンダー";
+
+/* No comment provided by engineer. */
+"Music menu title" = "ミュージック";
+
+/* No comment provided by engineer. */
+"Notes menu title" = "メモ";
+
+/* No comment provided by engineer. */
+"Notifications menu title" = "通知";
+
+/* No comment provided by engineer. */
+"Personal Hotspot menu title" = "インターネット共有";
+
+/* No comment provided by engineer. */
+"Phone menu title" = "電話";
+
+/* No comment provided by engineer. */
+"Photos & Camera menu title" = "写真とカメラ";
+
+/* No comment provided by engineer. */
+"Reset menu title" = "リセット";
+
+/* No comment provided by engineer. */
+"Ringtone menu title" = "着信音";
+
+/* main Settings menu title */
+"Settings menu title" = "設定";
+
+/* No comment provided by engineer. */
+"Software Update menu title" = "ソフトウェアアップデート";
+
+/* No comment provided by engineer. */
+"Sounds menu title" = "サウンド";
+
+/* No comment provided by engineer. */
+"Twitter menu title" = "Twitter";
+
+/* No comment provided by engineer. */
+"Unable to create NSURL for Settings App Location error description" = "%sのためにNSURLを作成することができません";
+
+/* No comment provided by engineer. */
+"Videos menu title" = "ビデオ";
+
+/* No comment provided by engineer. */
+"Wallet & Apple Pay menu title" = "WalletとApple Pay";
+
+/* No comment provided by engineer. */
+"Wallpaper menu title" = "壁紙";
+
+/* No comment provided by engineer. */
+"Wi-Fi menu title" = "Wi-Fi";
