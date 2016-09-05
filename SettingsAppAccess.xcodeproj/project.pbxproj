@@ -25,6 +25,7 @@
 		3C93AD371CC8740700FE6260 /* LICENSE.md in Sources */ = {isa = PBXBuildFile; fileRef = 3C93AD331CC8740700FE6260 /* LICENSE.md */; };
 		3C93AD381CC8740700FE6260 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 3C93AD341CC8740700FE6260 /* README.md */; };
 		3C93AD391CC8740700FE6260 /* SettingsAppAccess.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 3C93AD351CC8740700FE6260 /* SettingsAppAccess.podspec */; };
+		5AFC3CA71D7D5E21008282B8 /* zh-Hans.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5AFC3CA61D7D5E21008282B8 /* zh-Hans.lproj */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,9 @@
 		3C93AD331CC8740700FE6260 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		3C93AD341CC8740700FE6260 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3C93AD351CC8740700FE6260 /* SettingsAppAccess.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SettingsAppAccess.podspec; sourceTree = "<group>"; };
+		5AFC3CA61D7D5E21008282B8 /* zh-Hans.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "zh-Hans.lproj"; path = "SettingsAppAccess/zh-Hans.lproj"; sourceTree = SOURCE_ROOT; };
+		5AFC3CAA1D7D5EA5008282B8 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		5AFC3CAB1D7D5EA5008282B8 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +182,7 @@
 		3C93AD2C1CC8662900FE6260 /* Base.lproj */ = {
 			isa = PBXGroup;
 			children = (
+				5AFC3CA61D7D5E21008282B8 /* zh-Hans.lproj */,
 				3C93AD2D1CC8662900FE6260 /* Localizable.strings */,
 			);
 			path = Base.lproj;
@@ -281,6 +286,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = 3C4E07041CC82E3800FDC312;
 			productRefGroup = 3C4E070F1CC82E3800FDC312 /* Products */;
@@ -302,6 +308,7 @@
 				3C5396221CC85520004F4C79 /* Localizable.strings in Resources */,
 				3C93AD2F1CC8662900FE6260 /* Localizable.strings in Resources */,
 				3C93AD391CC8740700FE6260 /* SettingsAppAccess.podspec in Resources */,
+				5AFC3CA71D7D5E21008282B8 /* zh-Hans.lproj in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -375,6 +382,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				3C4E07281CC8376400FDC312 /* Base */,
+				5AFC3CAA1D7D5EA5008282B8 /* zh-Hans */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -383,6 +391,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				3C4E072D1CC8376400FDC312 /* Base */,
+				5AFC3CAB1D7D5EA5008282B8 /* zh-Hans */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
