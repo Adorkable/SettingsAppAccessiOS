@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SettingsAppAccess"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "send your user to various locations within iOS' Settings app"
 
   s.homepage     = "https://github.com/Adorkable/SettingsAppAccessiOS.git"
