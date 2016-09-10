@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.3](https://github.com/Adorkable/SettingsAppAccessiOS/tree/1.0.3) (2016-09-10)
+[Full Changelog](https://github.com/Adorkable/SettingsAppAccessiOS/compare/1.0.2...1.0.3)
+
+**Merged pull requests:**
+
+- Support iOS 8.4 [\#4](https://github.com/Adorkable/SettingsAppAccessiOS/pull/4) ([yoiang](https://github.com/yoiang))
+
 ## [1.0.2](https://github.com/Adorkable/SettingsAppAccessiOS/tree/1.0.2) (2016-09-10)
 [Full Changelog](https://github.com/Adorkable/SettingsAppAccessiOS/compare/1.0.1...1.0.2)
 
