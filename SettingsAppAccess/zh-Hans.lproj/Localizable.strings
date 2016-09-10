@@ -1,0 +1,98 @@
+/* No comment provided by engineer. */
+"About menu title" = "关于本机";
+
+/* No comment provided by engineer. */
+"Accessibility menu title" = "辅助功能";
+
+/* No comment provided by engineer. */
+"Auto-Lock menu title" = "自动锁定";
+
+/* No comment provided by engineer. */
+"Bluetooth menu title" = "蓝牙";
+
+/* No comment provided by engineer. */
+"Configuration Profiles menu title" = "配置描述文件";
+
+/* No comment provided by engineer. */
+"Date & Time menu title" = "日期与时间";
+
+/* No comment provided by engineer. */
+"FaceTime menu title" = "FaceTime";
+
+/* No comment provided by engineer. */
+"General menu title" = "一般";
+
+/* No comment provided by engineer. */
+"iCloud menu title" = "iCloud";
+
+/* No comment provided by engineer. */
+"iCloud Storage menu title" = "iCloud 存储";
+
+/* No comment provided by engineer. */
+"iTunes & App Stores menu title" = "iTunes 和 App Store";
+
+/* Keyboards list within Keyboards menu */
+"Keyboards -> Keyboards menu title" = "键盘 -> 键盘";
+
+/* Keyboards settings menu */
+"Keyboards menu title" = "键盘";
+
+/* No comment provided by engineer. */
+"Language & Region menu title" = "语言和地区";
+
+/* No comment provided by engineer. */
+"Location Services menu title" = "位置服务";
+
+/* No comment provided by engineer. */
+"Mail, Contacts, Calendars menu title" = "电子邮件、通讯录和日历";
+
+/* No comment provided by engineer. */
+"Music menu title" = "音乐";
+
+/* No comment provided by engineer. */
+"Notes menu title" = "备忘录";
+
+/* No comment provided by engineer. */
+"Notifications menu title" = "通知";
+
+/* No comment provided by engineer. */
+"Personal Hotspot menu title" = "个人热点";
+
+/* No comment provided by engineer. */
+"Phone menu title" = "电话";
+
+/* No comment provided by engineer. */
+"Photos & Camera menu title" = "照片与相机";
+
+/* No comment provided by engineer. */
+"Reset menu title" = "重置";
+
+/* No comment provided by engineer. */
+"Ringtone menu title" = "铃声";
+
+/* main Settings menu title */
+"Settings menu title" = "设置";
+
+/* No comment provided by engineer. */
+"Software Update menu title" = "软件更新";
+
+/* No comment provided by engineer. */
+"Sounds menu title" = "声音";
+
+/* No comment provided by engineer. */
+"Twitter menu title" = "Twitter";
+
+/* No comment provided by engineer. */
+"Unable to create NSURL for Settings App Location error description" = "无法创建 %s 的 NSURL";
+
+/* No comment provided by engineer. */
+"Videos menu title" = "视频";
+
+/* No comment provided by engineer. */
+"Wallet & Apple Pay menu title" = "Wallet 和 Apple Pay";
+
+/* No comment provided by engineer. */
+"Wallpaper menu title" = "壁纸";
+
+/* No comment provided by engineer. */
+"Wi-Fi menu title" = "Wi-Fi";
